@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<settings>
+	<basicsettings>
+		<hash_algorithm>SHA256</hash_algorithm>	
+		<!-- パッケージ化 1.5GB の制限あり -->
+		<package_maxsize>1610612736</package_maxsize>
+		<package_maxfiles>0</package_maxfiles>
+		<check_maxsize>0</check_maxsize>
+		<check_maxfiles>0</check_maxfiles>
+		<password>CheckPassword</password>
+	</basicsettings>
+	<combosettings>
+		<targetrange>
+			<value>Aシステム</value>
+			<value>Bシステム</value> -->
+		</targetrange>
+		<workername>
+			<value>システム開発部）田中</value>
+			<value>営業部）佐藤</value>
+		</workername>
+		<terminalname>
+			<value>TOKYO-001</value>
+			<value>AICHI-001</value>
+		</terminalname>
+	</combosettings>
+</settings>
